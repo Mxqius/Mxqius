@@ -1,5 +1,5 @@
 # 💫 About Me:
-Back-end Developer (Node.js)<br>WPF | Windows Form (C#)<br>I love making applications for help to people ❤️☕
+Back-end Developer (Node.js)<br>WPF & Windows Form (C#)<br>I love making applications for help to people ❤️☕
 
 
 ## 🌐 Socials:
